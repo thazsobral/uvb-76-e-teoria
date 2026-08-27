@@ -1,0 +1,6 @@
+{
+  "name": "UVB-76 & Teoria da Informação",
+  "description": "Site educacional interativo sobre a rádio UVB-76 (The Buzzer), Teoria da Informação de Claude Shannon, Entropia e Criptografia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
